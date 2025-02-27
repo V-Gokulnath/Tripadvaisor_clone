@@ -176,10 +176,11 @@ body {
 @media screen and (max-width:760px) {
     .section1_categories {
         justify-content: center;
-        margin-left: 100px;
-        margin-right: 100px;
+        margin-left: 200px;
+        margin-right: 200px;
         padding: 5px;
-        font-size: 13px;   
+        font-size: 13px;  
+        overflow-x: auto;
     }   
 }
 
