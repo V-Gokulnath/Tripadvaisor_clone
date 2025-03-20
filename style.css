@@ -291,8 +291,8 @@ main {
 
 .container-1 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
     margin-top: 50px;
 }
 
@@ -401,7 +401,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-1 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
@@ -499,9 +499,9 @@ main {
 
 .container-2 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 
 }
 
@@ -596,7 +596,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-2 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
@@ -610,9 +610,9 @@ main {
 
 .container-3 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 }
 
 .container-3_card img {
@@ -701,7 +701,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-3 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
@@ -715,9 +715,9 @@ main {
 
 .container-4 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 
 }
 
@@ -771,7 +771,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-4 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
@@ -784,9 +784,9 @@ main {
 /* ----------------------------------container-5------------------------------------- */
 .container-5 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 
 }
 
@@ -846,7 +846,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-5 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
@@ -859,9 +859,9 @@ main {
 /*---------------------------- container-6 -------------------------*/
 .container-6 {
     padding: 10px;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
 
 }
 
@@ -921,7 +921,7 @@ main {
 
 @media screen and (max-width:1000px) {
     .container-6 {
-        padding: 20px;
+        padding: 10px;
         margin: 10px;
     }
 
